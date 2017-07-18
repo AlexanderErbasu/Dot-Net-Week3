@@ -1,0 +1,28 @@
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.pdb
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\ErpDatabase.pdb
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.csprojResolveAssemblyReference.cache
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\ErpDatabase.Tests.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase.Tests\obj\Debug\ErpDatabase.Tests.pdb

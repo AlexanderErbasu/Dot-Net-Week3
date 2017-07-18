@@ -1,0 +1,5 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline\MagazinOnline\bin\Debug\netcoreapp1.1\MagazinOnline.deps.json
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline\MagazinOnline\bin\Debug\netcoreapp1.1\MagazinOnline.runtimeconfig.json
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline\MagazinOnline\bin\Debug\netcoreapp1.1\MagazinOnline.runtimeconfig.dev.json
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline\MagazinOnline\obj\Debug\netcoreapp1.1\MagazinOnline.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline\MagazinOnline\obj\Debug\netcoreapp1.1\MagazinOnline.AssemblyInfo.cs

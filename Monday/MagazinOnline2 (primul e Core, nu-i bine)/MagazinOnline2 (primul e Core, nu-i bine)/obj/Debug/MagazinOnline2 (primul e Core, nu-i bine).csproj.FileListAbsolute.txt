@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\bin\Debug\MagazinOnline2 (primul e Core, nu-i bine).exe.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\bin\Debug\MagazinOnline2 (primul e Core, nu-i bine).exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\bin\Debug\MagazinOnline2 (primul e Core, nu-i bine).pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\obj\Debug\MagazinOnline2 (primul e Core, nu-i bine).csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\obj\Debug\MagazinOnline2 (primul e Core, nu-i bine).exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\MagazinOnline2 (primul e Core, nu-i bine)\obj\Debug\MagazinOnline2 (primul e Core, nu-i bine).pdb

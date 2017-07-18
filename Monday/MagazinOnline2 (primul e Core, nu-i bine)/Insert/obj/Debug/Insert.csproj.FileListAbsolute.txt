@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\bin\Debug\Insert.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\bin\Debug\Insert.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\bin\Debug\Insert.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\obj\Debug\Insert.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\obj\Debug\Insert.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\Insert\obj\Debug\Insert.pdb

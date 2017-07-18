@@ -1,0 +1,5 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\UpdateBazaDeDate\bin\Debug\UpdateBazaDeDate.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\UpdateBazaDeDate\bin\Debug\UpdateBazaDeDate.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\UpdateBazaDeDate\bin\Debug\UpdateBazaDeDate.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\UpdateBazaDeDate\obj\Debug\UpdateBazaDeDate.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Monday\MagazinOnline2 (primul e Core, nu-i bine)\UpdateBazaDeDate\obj\Debug\UpdateBazaDeDate.pdb

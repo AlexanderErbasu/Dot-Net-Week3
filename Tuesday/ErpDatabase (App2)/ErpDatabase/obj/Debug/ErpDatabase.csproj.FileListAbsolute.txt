@@ -1,0 +1,10 @@
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase\bin\Debug\ErpDatabase.pdb
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.csprojResolveAssemblyReference.cache
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.dll
+D:\Proiecte\Instruire\Proiecte\ErpDatabase\ErpDatabase\obj\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase\obj\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase\obj\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Tuesday\ErpDatabase (App2)\ErpDatabase\obj\Debug\ErpDatabase.csprojResolveAssemblyReference.cache
