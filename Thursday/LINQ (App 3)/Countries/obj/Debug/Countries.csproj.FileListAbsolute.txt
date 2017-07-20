@@ -1,0 +1,7 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\bin\Debug\Countries.csv
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\bin\Debug\Countries.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\bin\Debug\Countries.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\bin\Debug\Countries.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\obj\Debug\Countries.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\obj\Debug\Countries.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\LINQ (App 3)\Countries\obj\Debug\Countries.pdb

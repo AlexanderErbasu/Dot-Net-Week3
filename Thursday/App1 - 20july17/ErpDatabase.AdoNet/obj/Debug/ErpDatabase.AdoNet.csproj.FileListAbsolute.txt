@@ -1,0 +1,7 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.AdoNet.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.AdoNet.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\App1 - 20july17\ErpDatabase.AdoNet\obj\Debug\ErpDatabase.AdoNet.pdb

@@ -1,0 +1,5 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\Countries (App2)\Countries.Database\bin\Debug\Countries.Database.dacpac
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\Countries (App2)\Countries.Database\bin\Debug\Countries.Database.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\Countries (App2)\Countries.Database\bin\Debug\Countries.Database.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\Countries (App2)\Countries.Database\obj\Debug\Countries.Database.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Thursday\Countries (App2)\Countries.Database\obj\Debug\Countries.Database.pdb

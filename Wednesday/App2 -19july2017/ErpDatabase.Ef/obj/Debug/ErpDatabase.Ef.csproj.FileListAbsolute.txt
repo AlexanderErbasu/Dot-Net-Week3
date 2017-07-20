@@ -1,0 +1,12 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.dll.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\ErpDatabase.Ef.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\EntityFramework.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\EntityFramework.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Ef\obj\Debug\ErpDatabase.Ef.pdb

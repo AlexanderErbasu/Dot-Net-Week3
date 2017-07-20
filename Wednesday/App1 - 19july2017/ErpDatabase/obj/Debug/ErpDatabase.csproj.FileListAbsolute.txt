@@ -1,0 +1,5 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App1 - 19july2017\ErpDatabase\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App1 - 19july2017\ErpDatabase\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App1 - 19july2017\ErpDatabase\obj\Debug\ErpDatabase.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App1 - 19july2017\ErpDatabase\obj\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App1 - 19july2017\ErpDatabase\obj\Debug\ErpDatabase.pdb

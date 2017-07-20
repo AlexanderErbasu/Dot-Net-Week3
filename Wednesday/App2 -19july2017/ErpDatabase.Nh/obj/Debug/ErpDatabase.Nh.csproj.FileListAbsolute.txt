@@ -1,0 +1,11 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\ErpDatabase.Nh.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\ErpDatabase.Nh.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\ErpDatabase.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\Iesi.Collections.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\NHibernate.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\ErpDatabase.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\Iesi.Collections.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\bin\Debug\NHibernate.xml
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.dll
+C:\Users\alexandru.erbasu\Documents\Week 4\Wednesday\App2 -19july2017\ErpDatabase.Nh\obj\Debug\ErpDatabase.Nh.pdb
