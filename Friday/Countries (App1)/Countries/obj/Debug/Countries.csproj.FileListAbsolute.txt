@@ -1,0 +1,6 @@
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\bin\Debug\Countries.csv
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\bin\Debug\Countries.exe.config
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\bin\Debug\Countries.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\bin\Debug\Countries.pdb
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\obj\Debug\Countries.exe
+C:\Users\alexandru.erbasu\Documents\Week 4\Friday\Countries (App1)\Countries\obj\Debug\Countries.pdb
